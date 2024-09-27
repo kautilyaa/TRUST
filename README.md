@@ -3,6 +3,8 @@ TRUST: Targeted Risk Understanding &amp; Scoring Technology aims to predict loan
 
 Targeted Risk Understanding & Scoring Technology (TRUST)
 Course: Data 602 - Principles of Data Science
+
+
 Authors: Arunbh Yashaswi, Swattik Matti, Eniyan Ezhilan , Ajaykumar Balakannan , Ritik Singh
 
 Introduction
