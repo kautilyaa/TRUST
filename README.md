@@ -4,11 +4,6 @@ TRUST: Targeted Risk Understanding &amp; Scoring Technology aims to predict loan
 Targeted Risk Understanding & Scoring Technology (TRUST)
 Course: Data 602 - Principles of Data Science
 
-
-# Authors: 
-
-Arunbh Yashaswi, Swattik Matti, Eniyan Ezhilan , Ajaykumar Balakannan , Ritik Singh
-
 # Introduction
 
 In today's sophisticated financial environment, assessing a borrower’s ability to repay loans is crucial to risk management for lending institutions. As the credit market continues to grow, financial institutions face challenges in making well-informed decisions about loan approvals while efficiently managing the risk of defaults.
@@ -88,3 +83,11 @@ The final stage will involve deriving actionable insights from the model. These 
 Expected Outcomes
 
 We aim to develop a robust model with strong predictive power for loan defaults. By the end of the project, we will provide insights into key risk factors and offer financial institutions a tool to better assess applicant profiles, ultimately reducing uncertainty in loan approvals and minimizing financial risk.
+
+# Authors: 
+
+Arunbh Yashaswi, Swattik Matti, Eniyan Ezhilan , Ajaykumar Balakannan , Ritik Singh
+
+# Credit:
+
+Home Credit Group
