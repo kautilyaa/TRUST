@@ -87,7 +87,7 @@ We aim to develop a robust model with strong predictive power for loan defaults.
 
 # Authors: 
 
-Arunbh Yashaswi, Swattik Matti, Eniyan Ezhilan , Ajaykumar Balakannan , Ritik Singh
+Arunbh Yashaswi, Swattik Maiti (https://github.com/PerciValXIII), Eniyan Ezhilan , Ajaykumar Balakannan , Ritik Singh
 
 # Credit:
 
