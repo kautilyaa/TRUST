@@ -7,17 +7,20 @@ Course: Data 602 - Principles of Data Science
 
 Authors: Arunbh Yashaswi, Swattik Matti, Eniyan Ezhilan , Ajaykumar Balakannan , Ritik Singh
 
-Introduction
+#Introduction
+
 In today's sophisticated financial environment, assessing a borrower’s ability to repay loans is crucial to risk management for lending institutions. As the credit market continues to grow, financial institutions face challenges in making well-informed decisions about loan approvals while efficiently managing the risk of defaults.
 
 This project addresses that challenge by developing a predictive model using the Home Credit Default Risk dataset. This dataset contains detailed information about clients’ loan applications, credit histories, and socio-economic factors. Our primary goal is to build a model that evaluates, with high precision, the probability of a given applicant defaulting on a loan. This will help lenders make more informed credit decisions and minimize losses due to defaults, contributing to a more robust loan assessment process.
 
-Why Did We Choose This Project?
+#Why Did We Choose This Project?
+
 Loan default is a major issue for financial institutions, impacting profitability and credit capacity. Our project aims to apply data science techniques to predict the likelihood of loan defaults, helping institutions assess the risk efficiently.
 
 The Home Credit Default Risk dataset offers a rich variety of features, including demographics, credit history, and repayment behavior, allowing for deep analysis and improved credit risk assessment.
 
-Problem We Are Solving
+#Problem We Are Solving
+
 The key problem we address is identifying applicants who are at higher risk of defaulting on loans. With vast amounts of customer data, manually assessing risk becomes challenging. Our machine learning model will automate this prediction process, increasing the efficiency of financial institutions in determining defaulters.
 
 Specifically, our project will:
@@ -28,7 +31,8 @@ Provide insights into which customer profiles are more likely to default and whi
 Dataset Source
 The dataset used is from the Home Credit Default Risk challenge on Kaggle, consisting of various customer and loan data, including credit history, repayment behavior, and demographics.
 
-Why This Dataset?
+#Why This Dataset?
+
 The Home Credit Default Risk dataset is highly feature-rich, allowing for a multi-dimensional analysis of applicants' financial behavior. By incorporating external credit history, repayment trends, and loan application records, we can develop a highly accurate prediction model for loan defaults. This dataset enables us to evaluate applicants far beyond simple credit scores, identifying nuanced risk factors.
 
 Dataset Details
@@ -44,7 +48,8 @@ HomeCredit_columns_description.csv: Column descriptions for each dataset.
 
 ![home_credit](https://github.com/user-attachments/assets/7b53c443-7b00-4804-b28b-e086bed65ce8)
 
-Methodologies
+#Methodologies
+
 We will follow the Data Science Lifecycle to predict loan defaults:
 
 Data Collection:
