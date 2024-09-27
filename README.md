@@ -31,7 +31,7 @@ Provide insights into which customer profiles are more likely to default and whi
 Dataset Source
 The dataset used is from the Home Credit Default Risk challenge on Kaggle, consisting of various customer and loan data, including credit history, repayment behavior, and demographics.
 
-#Why This Dataset?
+# Why This Dataset?
 
 The Home Credit Default Risk dataset is highly feature-rich, allowing for a multi-dimensional analysis of applicants' financial behavior. By incorporating external credit history, repayment trends, and loan application records, we can develop a highly accurate prediction model for loan defaults. This dataset enables us to evaluate applicants far beyond simple credit scores, identifying nuanced risk factors.
 
