@@ -3,7 +3,7 @@ TRUST: Targeted Risk Understanding &amp; Scoring Technology aims to predict loan
 
 Targeted Risk Understanding & Scoring Technology (TRUST)
 Course: Data 602 - Principles of Data Science
-
+Authors: Arunbh Yashaswi, Swattik Matti, Eniyan Ezhilan , Ajaykumar Balakannan , Ritik Singh
 Introduction
 In today's sophisticated financial environment, assessing a borrower’s ability to repay loans is crucial to risk management for lending institutions. As the credit market continues to grow, financial institutions face challenges in making well-informed decisions about loan approvals while efficiently managing the risk of defaults.
 
@@ -37,6 +37,8 @@ credit_card_balance.csv: Monthly balances for credit cards.
 previous_application.csv: Details of previous loan applications.
 installments_payments.csv: Repayment history for previous loans.
 HomeCredit_columns_description.csv: Column descriptions for each dataset.
+![home_credit](https://github.com/user-attachments/assets/7b53c443-7b00-4804-b28b-e086bed65ce8)
+
 Methodologies
 We will follow the Data Science Lifecycle to predict loan defaults:
 
