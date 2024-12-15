@@ -7,6 +7,12 @@ Course: Data 602 - Principles of Data Science
 
 #### <span style="color:red;">NOTE</span>: _*Feature Engineered Final Dataset and our Logistic Regression Model in the first release*_
 
+# Project Title
+
+Check out the video demonstration below:
+
+[![TRUST](https://imgur.com/gallery/trust-RQ7qgFe)]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/fBDyLng_aJw?si=SoBlK2Dg6-3Ux6Md))
+
 
 # Introduction
 
