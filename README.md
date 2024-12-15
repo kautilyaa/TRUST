@@ -5,6 +5,8 @@ Targeted Risk Understanding & Scoring Technology (TRUST)
 
 Course: Data 602 - Principles of Data Science
 
+*Feature Engineered Final Dataset and our Logestic regression Model in the first release*
+
 # Introduction
 
 In today's sophisticated financial environment, assessing a borrower’s ability to repay loans is crucial to risk management for lending institutions. As the credit market continues to grow, financial institutions face challenges in making well-informed decisions about loan approvals while efficiently managing the risk of defaults.
