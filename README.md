@@ -5,7 +5,7 @@ Targeted Risk Understanding & Scoring Technology (TRUST)
 
 Course: Data 602 - Principles of Data Science
 
-*Feature Engineered Final Dataset and our Logestic regression Model in the first release*
+##_*Feature Engineered Final Dataset and our Logestic regression Model in the first release*_
 
 # Introduction
 
