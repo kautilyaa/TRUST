@@ -11,7 +11,7 @@ Course: Data 602 - Principles of Data Science
 
 Check out the video demonstration below:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fBDyLng_aJw?si=WG24rSzmf7bYAmnS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![YouTube](http://i.ytimg.com/vi/fBDyLng_aJw/hqdefault.jpg)](https://www.youtube.com/watch?v=fBDyLng_aJw)
 
 
 # Introduction
